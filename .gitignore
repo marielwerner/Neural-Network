@@ -1,0 +1,9 @@
+# ignore node modules 
+node_modules/*
+
+# compiled JS
+public/bundle.js 
+public/bundles.js.map
+
+# NPM errors
+npm-debug.log
